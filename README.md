@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I am Keoma K. Klein
 
-<!--
-**keomaklein/keomaklein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer, I usually work as a backend developer but I have good knowledge of frontend. Currently working on Gopoints.
 
-Here are some ideas to get you started:
+### My skills include
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">	
+	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/keomaklein/keomaklein/assets/mysql.svg" width="40" height="40" />
+	<img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/keomaklein/keomaklein/assets/bitbucket.svg" height="40" />
+	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/keomaklein/keomaklein/assets/git.svg" width="70" height="40" />	
+	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/keomaklein/keomaklein/assets/linux-tux.svg" width="40" />
+</p>
+
