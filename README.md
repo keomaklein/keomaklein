@@ -9,5 +9,6 @@ I am a software developer, I usually work as a backend developer but I have good
 	<img title="Bitbucket" alt="Bitbucket" src="https://github.com/keomaklein/keomaklein/blob/main/assets/bitbucket.svg" height="40" />
 	<img title="Git" alt="Git" src="https://github.com/keomaklein/keomaklein/blob/main/assets/git.svg" width="70" height="40" />	
 	<img title="linux" alt="linux" src="https://github.com/keomaklein/keomaklein/blob/main/assets/linux-tux.svg" width="40" />
+	<img title="java" alt="linux" src="https://github.com/keomaklein/keomaklein/blob/main/assets/java.png" width="40" />
 </p>
 
