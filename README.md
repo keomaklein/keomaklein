@@ -1,4 +1,6 @@
-### Hi there 👋 I am Keoma K. Klein
+### Hi there 👋
+
+### I am Keoma K. Klein
 
 I am a software developer, I usually work as a backend developer but I have good knowledge of frontend. Currently working on Gopoints.
 
